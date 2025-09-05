@@ -1,0 +1,103 @@
+{
+  "specialties": [
+    {
+      "code": "reanimation",
+      "name": "Réanimation",
+      "description": "Réanimation.",
+      "icon": "/images/specialities/reanimation.jpeg",
+      "code_CIM": "A00–B9988"
+    },
+    {
+      "code": "infectiologie",
+      "name": "Infectiologie",
+      "description": "Spécialité liée aux maladies infectieuses et parasitaires.",
+      "icon": "/images/specialities/infectiologie.jpeg",
+      "code_CIM": "A00–B99"
+    },
+    {
+      "code": "oncologie",
+      "name": "Oncologie",
+      "description": "Les Oncologues sont des spécialistes médicaux dévoués au diagnostic, au traitement et à la gestion des patients atteints de cancer",
+      "icon": "/images/specialities/oncologie.jpeg",
+      "code_CIM": "C00–D48"
+    },
+    {
+      "code": "traumatologie",
+      "name": "Traumatologie",
+      "description": "Spécialité liée aux lésions traumatiques, empoisonnements et conséquences externes.",
+      "icon": "/images/specialities/traumatologie.jpeg",
+      "code_CIM": "S00–T98"
+    },
+    {
+      "code": "MICI",
+      "name": "MICI : Crohn et RCH",
+      "description": "Spécialité liée aux maladies inflammatoires chroniques de l'intestin (MICI)",
+      "icon": "/images/specialities/MICI.jpeg",
+      "code_CIM": "K50-K51"
+    },
+    {
+      "code": "general_practice",
+      "name": "Médecine Générale",
+      "description": "Le médecin généraliste offre des soins médicaux primaires, allant de la prévention à la gestion des maladies courantes.",
+      "icon": "/images/specialities/general_practice.jpeg"
+    },
+    {
+      "code": "sports_medicine",
+      "name": "Médecine du Sport",
+      "description": "Le médecin traite les blessures liées à l'exercice.",
+      "icon": "/images/specialities/sports_medicine.jpeg"
+    },
+    {
+      "code": "surgery",
+      "name": "Chirurgie",
+      "description": "Le chirurgien pratique des interventions opératoires pour traiter diverses pathologies, allant de la chirurgie d'urgence aux interventions programmées. Il diagnostique, opère et assure le suivi post-opératoire des patients.",
+      "icon": "/images/specialities/surgery.jpeg"
+    },
+    {
+      "code": "dieteticiens",
+      "name": "Diététicien(ne)",
+      "description": "Diététicien(ne) aide les individus à atteindre leurs objectifs de santé et à gérer les conditions médicales liées à l'alimentation.",
+      "icon": "/images/specialities/dieteticiens.jpeg"
+    },
+    {
+      "code": "diabetologie",
+      "name": "Diabétologie",
+      "description": "La diabétologie se concentre sur le diagnostic, le traitement et la gestion du diabète et des troubles métaboliques associés",
+      "icon": "/images/specialities/diabetologie.png",
+      "code_CMI-10": "E10-E14",
+      "code_CMI-11": "EC00-EC10"
+    },
+    {
+      "code": "endocrinologie",
+      "name": "Diabétologie Endocrinologie",
+      "description": "Un Diabétologue-Endocrinologue traite les patients atteints de diabète et d'autres troubles métaboliques liés aux hormones",
+      "icon": "/images/specialities/endocrinologie.jpeg",
+      "code_CMI-10": "E10-E14",
+      "code_CMI-11": "EC00-EC10"
+    },
+    {
+      "code": "cardiologie",
+      "name": "Cardiologie",
+      "description": "Un Cardiologues diagnostique et le traiteme les maladies cardiovasculaires",
+      "icon": "/images/specialities/cardiologie.jpeg",
+      "code_CMI-10": {
+        "maladies cardiaques ischémiques": "I20-I25",
+        "maladies valvulaires cardiaques": "I05-I09",
+        "chirurgien cardiaque": "I30-I52"
+      },
+      "code_CMI-11": {
+        "maladies cardiaques ischémiques": "I20-I25",
+        "maladies valvulaires cardiaques": "I05-I09",
+        "chirurgien cardiaque": "I30-I52"
+      }
+    },
+    {
+      "code": "nephrologie",
+      "name": "Néphrologie",
+      "description": "Un Néphrologue se concentre sur le diagnostic, le traitement et la gestion des maladies liées aux reins",
+      "icon": "/images/specialities/nephrologie.jpeg",
+      "code_CMI-10": "N18",
+      "code_CMI-11": "N18"
+    }
+  ]
+}
